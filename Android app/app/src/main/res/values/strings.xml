@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Library</string>
+    <string name="title_activity_first">first</string>
+    <string name="title_activity_qr_code">qr_code</string>
+    <string name="title_activity_qrcode_temp">qrcode_temp</string>
+    <string name="title_activity_cv_try">cv_try</string>
+    <string name="title_activity_opencv_try">opencv_try</string>
+</resources>
